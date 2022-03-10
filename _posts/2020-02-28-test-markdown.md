@@ -76,3 +76,9 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+### Youtube
+
+<div class="youtube-embed-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IsBOgT0YFbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
